@@ -1,7 +1,7 @@
 # Pacotes de armas para SkinMaker
 
-Sete SMGs confirmadas no jogo: PP-Bizon, MAC-10, MP5-SD, MP7, MP9, P90 e UMP-45. Cada pacote contém arquivos de edição e exportação da versão 0.6.36, incluindo modelos de mão e chão.
+Recursos de 24 armas aprovadas nos testes relatados: sete fuzis, dez pistolas e sete SMGs. Os pacotes contêm arquivos de edição e exportação em três camadas; não são skins prontas para instalar no jogo. As SMGs incluem os arquivos de primeira pessoa corrigidos da 0.6.36. As demais armas usam os recursos correspondentes do APK 0.6.35.
 
-Os ZIPs estão divididos em partes em `packages/`. `packages/index.json` informa a ordem, tamanho e SHA-256 de cada parte e do ZIP completo. Junte as partes na ordem antes de extrair e confira o SHA-256. Estes arquivos são recursos para o SkinMaker, não skins prontas para instalar no jogo.
+Cada ZIP é dividido em partes em `packages/`. O arquivo `packages/index.json` informa a ordem, o tamanho e o SHA-256 de cada parte e do ZIP inteiro. Junte as partes na ordem antes de extrair e confira o SHA-256.
 
-O aplicativo ainda precisa receber a função para baixar, verificar, reunir e instalar os pacotes; a presença dos arquivos aqui não ativa esse download automaticamente.
+O sistema de download dentro do aplicativo ainda precisa ser implementado e testado. Os pacotes não demonstram por si só o funcionamento da integração futura.
