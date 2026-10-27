@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "version": "0.6.36",
+  "packages": [
+    {
+      "weapon": "bizon",
+      "size": 27048453,
+      "sha256": "4b12a26e78dd35e4e50910d21d99c7ab0569b702151680fa225f8ffc74e2b435",
+      "parts": [
+        {
+          "name": "bizon-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "e04fe12c929b2f4796c1834df87b7fcd353f0f55ed0bc2837271ab08050b9e6e"
+        },
+        {
+          "name": "bizon-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "6d15cc3526b3b6f8e804c6663c7c5fe397509f0985770b9fc3d1e21bdcad8c3c"
+        },
+        {
+          "name": "bizon-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "0feb58087cbdb336ebcec1bb7f68d8acdecb2902bab4243e0b9a87a2a81dc219"
+        },
+        {
+          "name": "bizon-0.6.36.zip.part004",
+          "bytes": 6291456,
+          "sha256": "84939c0fce4a7236a93f3f82d9b067b2d6599a9f8c884322edb0494478b4975a"
+        },
+        {
+          "name": "bizon-0.6.36.zip.part005",
+          "bytes": 1882629,
+          "sha256": "82e296d8b496b510713ee8389e79d214849b91d5ac6d611b2af47e3f8bc6ce1c"
+        }
+      ]
+    },
+    {
+      "weapon": "mac10",
+      "size": 19169991,
+      "sha256": "24f1cc205a6f5b160c828f35cf7e7bf64c05423f3e2e2b03b6992feaa4780f1c",
+      "parts": [
+        {
+          "name": "mac10-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "af4da6107935a43075642247d259bcecb7a596d308f98327c22c04e0b7dd29c2"
+        },
+        {
+          "name": "mac10-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "bfbc20da77e57e5e6a04212a695be703994311dac9fea950f00c63f967982733"
+        },
+        {
+          "name": "mac10-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "a3b11e7dd1e6e2991191b1fea3360ba51d01193491770d25c0fbab5a45016244"
+        },
+        {
+          "name": "mac10-0.6.36.zip.part004",
+          "bytes": 295623,
+          "sha256": "99098d305eec173043c126d1fd35b391de06cf25670bfd2f07eba6c3ec9867f0"
+        }
+      ]
+    },
+    {
+      "weapon": "mp5",
+      "size": 27148083,
+      "sha256": "ece8e99efc1a497c4e44ecb4d244aac6a4ad1ec3998f08f16549147d569bbd2c",
+      "parts": [
+        {
+          "name": "mp5-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "b83a51fc412bf6e030bd4b9bf1a4a23c3e8f66f893e98e093a19d57cdd30b9d0"
+        },
+        {
+          "name": "mp5-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "a391e43c465a5f7803cb5c00d3d1b163f370194aa5712b468007b2001792617a"
+        },
+        {
+          "name": "mp5-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "c2a2390b7fa397a3cbc4e2ac4755eb55ce82870228d6a3911028fb2602c06fd6"
+        },
+        {
+          "name": "mp5-0.6.36.zip.part004",
+          "bytes": 6291456,
+          "sha256": "d01279ff85623467d857e6b3231a19180978be41008f0ca7c1872b5dbc0339cd"
+        },
+        {
+          "name": "mp5-0.6.36.zip.part005",
+          "bytes": 1982259,
+          "sha256": "f7a72688e736e3cd9d9d173d6bf603f15dfbf19ba0481670067194714c48fd26"
+        }
+      ]
+    },
+    {
+      "weapon": "mp7",
+      "size": 24883726,
+      "sha256": "01fcb3f0eba575243445b71d71ed79c55e6810a7dcfdf3c40c024baaa389563d",
+      "parts": [
+        {
+          "name": "mp7-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "049c15f5a676c711aa4dff6f637ba373173f8077fcb7bb4a153f418a42b05645"
+        },
+        {
+          "name": "mp7-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "fe404301e489ace579c5da7967d891cf84747a98864a365be190eeb165d23488"
+        },
+        {
+          "name": "mp7-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "7fa0cf00006f1c085e824d9fdd7c18b84ae57b8a1fbd2ff6609cf67eb4848f23"
+        },
+        {
+          "name": "mp7-0.6.36.zip.part004",
+          "bytes": 6009358,
+          "sha256": "3d4a16884bbd08d58a2b6666a28c60836b7a576edb935fe959a65012e251d54e"
+        }
+      ]
+    },
+    {
+      "weapon": "mp9",
+      "size": 25144331,
+      "sha256": "9e4c42c5ed40d6a4ca31186d6b87f130d309cf5babe2837ca323026331830813",
+      "parts": [
+        {
+          "name": "mp9-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "17117ed93c8fd131d04ac4e5fe613904b9d93c5aad4b7cb30b3221c491e8693d"
+        },
+        {
+          "name": "mp9-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "cc4442f1f4c03f08911d2011921b28bda31418fd749d74100239d70b16fb9797"
+        },
+        {
+          "name": "mp9-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "b0e6b31d5aa0971e20e7f42f8e8a0a8c52296cd2e58605323d2fd087202e502f"
+        },
+        {
+          "name": "mp9-0.6.36.zip.part004",
+          "bytes": 6269963,
+          "sha256": "8beed8df91ddc201d0d42b164ecec49a5c4feb8ee2bf57a54fa1d065a45c816d"
+        }
+      ]
+    },
+    {
+      "weapon": "p90",
+      "size": 32183186,
+      "sha256": "91e7bd8d824ae64c45377b386b603dc41a31301e2989510ca6fd8fae8d500fc3",
+      "parts": [
+        {
+          "name": "p90-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "179b6ce58237517bb91831349ecd046e417a5bf6ffb8debc13202b767f6f519b"
+        },
+        {
+          "name": "p90-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "1ffc22e6ed6dcae57d866870765415e823b721e130ba76d357e905b019db1f6b"
+        },
+        {
+          "name": "p90-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "6bb6491fe00750026db6a16d60082fc3fcea9691e83dd7ae8cd59dc476ccd8c6"
+        },
+        {
+          "name": "p90-0.6.36.zip.part004",
+          "bytes": 6291456,
+          "sha256": "b592c2c26e10228cbe38277f90803a4a01fcd570969dc19f4e01133824f4a23d"
+        },
+        {
+          "name": "p90-0.6.36.zip.part005",
+          "bytes": 6291456,
+          "sha256": "63dd2e843ec6250c48b27358cd6646e4e4b77dd06c4307bd14d068dfdaf4f903"
+        },
+        {
+          "name": "p90-0.6.36.zip.part006",
+          "bytes": 725906,
+          "sha256": "44041203d93edbc2ae254bd37e0f6673499d9c1c64d67429859ff5ba22adbe44"
+        }
+      ]
+    },
+    {
+      "weapon": "ump45",
+      "size": 21757248,
+      "sha256": "74ab1dc6ceef818afd71f377f9114ce755f475e564d70e510b2f90c71091658f",
+      "parts": [
+        {
+          "name": "ump45-0.6.36.zip.part001",
+          "bytes": 6291456,
+          "sha256": "40a50905b3049a5c49bb9b16bb4f08fa5e1420ccc9806be0349385f44406d316"
+        },
+        {
+          "name": "ump45-0.6.36.zip.part002",
+          "bytes": 6291456,
+          "sha256": "2216c3cd90cc9d9e4ecdf3adcb5e7fbe9e14fc4113bb9cd24ec6c5886fab8376"
+        },
+        {
+          "name": "ump45-0.6.36.zip.part003",
+          "bytes": 6291456,
+          "sha256": "e6eb8c93729ce06a31202c893c0a94b4cea21de6d48730a7bc7e2919030d7659"
+        },
+        {
+          "name": "ump45-0.6.36.zip.part004",
+          "bytes": 2882880,
+          "sha256": "7860d4d8c944a7ea1150e977a1952ddd2a7cea1c51572ac69746c1eabedcbae7"
+        }
+      ]
+    }
+  ]
+}
